@@ -15,8 +15,8 @@ Yazılım geliştirme ve teknolojiye olan ilgim, beni bu alanda başarılı bir 
 
 ## İletişim
 
-E-posta: [efeakal@icloud.com]
-GitHub: [GitHub Profil](https://github.com/Olodwill)
+<p>E-posta: [efeakal@icloud.com]</p>
+<p>GitHub: [GitHub Profil](https://github.com/Olodwill)</p>
   
 - Bu otobiyografi, benim hakkımda genel bir bilgi vermektedir. Daha fazla detay veya projeler hakkında daha fazla bilgi için lütfen GitHub profilimi ziyaret edin. Teşekkürler!
 
