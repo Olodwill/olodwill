@@ -38,7 +38,7 @@ Yazılım geliştirme ve teknolojiye olan ilgim, beni bu alanda başarılı bir 
 
 ## Contact
 
-Email: [efeakal@icloud.com]
-GitHub: [GitHub Profil](https://github.com/Olodwill)
+<p>Email: [efeakal@icloud.com]</p>
+<p>GitHub: [GitHub Profil](https://github.com/Olodwill)</p>
 
 - This biography provides a general overview of me. For more details or information about my projects, please visit my GitHub profile. Thank you!
