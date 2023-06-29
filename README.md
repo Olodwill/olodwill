@@ -22,7 +22,7 @@ Yazılım geliştirme ve teknolojiye olan ilgim, beni bu alanda başarılı bir 
 
 
 
-# Biography
+<p># Biography<p>
  Hello! My name is [Efe Akal](https://github.com/Olodwill)  I am a software developer and I actively share my work on GitHub. Below you can find more information about my career, skills, and projects.
 
  ## Career Objective
