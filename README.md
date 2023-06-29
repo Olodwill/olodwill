@@ -12,17 +12,12 @@ Yazılım geliştirme ve teknolojiye olan ilgim, beni bu alanda başarılı bir 
 - Web Geliştirme: HTML, CSS, JavaScript, React
 - Veritabanı Yönetimi: MySQL, MongoDB
 - Sürüm Kontrolü: Git, GitHub
-
-## İletişim
-
-<p>E-posta: [efeakal@icloud.com]</p>
-<p>GitHub: [GitHub Profil](https://github.com/Olodwill)</p>
   
 - Bu otobiyografi, benim hakkımda genel bir bilgi vermektedir. Daha fazla detay veya projeler hakkında daha fazla bilgi için lütfen GitHub profilimi ziyaret edin. Teşekkürler!
 
 
 
-<p># Biography<p>
+# Biography
  Hello! My name is [Efe Akal](https://github.com/Olodwill)  I am a software developer and I actively share my work on GitHub. Below you can find more information about my career, skills, and projects.
 
  ## Career Objective
@@ -35,10 +30,5 @@ Yazılım geliştirme ve teknolojiye olan ilgim, beni bu alanda başarılı bir 
 - Web Development: HTML, CSS, JavaScript, React
 - Database Management: MySQL, MongoDB
 - Version Control: Git, GitHub
-
-## Contact
-
-<p>Email: [efeakal@icloud.com]</p>
-<p>GitHub: [GitHub Profil](https://github.com/Olodwill)</p>
 
 - This biography provides a general overview of me. For more details or information about my projects, please visit my GitHub profile. Thank you!
